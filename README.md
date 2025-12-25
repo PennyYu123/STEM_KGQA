@@ -1,2 +1,2 @@
 # STEM_KGQA
-The source code of STEM.
+The implementation of STEM framework.
